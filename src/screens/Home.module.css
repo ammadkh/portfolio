@@ -1,0 +1,52 @@
+.wrapper {
+    padding: 100px 0;
+}
+
+.left {
+    padding: 80px;
+}
+
+.introContainer {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    opacity: 0.06;
+    position: absolute;
+    top: 30%;
+    left: 15rem;
+    font-family: Quicksand;
+}
+
+.intro {
+    color: white;
+    font-family: Quicksand;
+}
+
+.name {
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+    font-family: Quicksand;
+}
+
+.right {
+
+}
+
+.descWrapper {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #9DA8F8;
+    margin: 0 0.3rem;
+}
+
+.desc {
+    display: flex;
+    color: gray;
+    line-height: 1.5rem;
+    font-family: Quicksand;
+    margin: 0.5rem 0;
+    font-size: 18px;
+}
